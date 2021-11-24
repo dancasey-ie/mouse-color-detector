@@ -1,0 +1,33 @@
+#tooltip {
+    display:none;
+    background-color:white;
+    border: 1px solid black;
+    position:fixed;
+    overflow:hidden;
+    width: 100px;
+    height: 20px;
+    display:block;
+    padding:20px;
+}
+
+/* #tooltip {
+    display:block;
+    position:fixed;
+    overflow:hidden;
+} */
+
+#tooltip_color_box {
+    width:100px!important;
+    height:20px;
+    background-color:white;
+    display:inline;
+}
+
+/* #img_canvas {
+    width:600px;
+    height:300px;
+} */
+
+#loaded_image {
+    display:none;
+}
